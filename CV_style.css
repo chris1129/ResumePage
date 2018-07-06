@@ -1,0 +1,48 @@
+
+body{
+/*	background: url(https://cdn.pixabay.com/photo/2017/11/14/08/07/glasses-2947708_1280.jpg);
+	background-size: cover;*/
+	background:  #bdc3c7;
+	border:3px gray solid;
+	padding: 1%;
+}
+p{
+	font-family: Arial;
+}
+
+#content{
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+    
+}
+#degree{
+	font-weight: 900;
+	font-size: 20px;
+}
+.subtitle{
+	font-style:italic;
+	/*border-bottom: 3px red solid;
+	color:#000080;*/
+	border-bottom: 3px red solid;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+#school{
+	font-size: 20px;
+}
+.time{
+	font-style:italic;
+	float: right;
+	font-size: 20px;
+	font-weight: 900;
+}
+.subsubtitle{
+	font-size: 20px;
+	font-weight: 900;
+}
+h3{
+	/*font-size: 20px;*/
+}
